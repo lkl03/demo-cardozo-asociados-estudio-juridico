@@ -1,2 +1,7 @@
-# demo-cardozo-asociados-estudio-juridico
-Demo web para Cardozo &amp; Asociados - Estudio Jurídico — diseñada por eterlab.
+# Cardozo & Asociados - Estudio Jurídico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
